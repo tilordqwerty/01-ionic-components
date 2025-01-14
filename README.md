@@ -1,1 +1,1 @@
-A repository for learn the ionic components
+A repository to learn the ionic components
